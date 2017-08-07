@@ -21,7 +21,7 @@
 ## 1、创建项目，添加css、js、img、tpl文件夹，添加必须引用的css、js文件，添加自定义的css、js文件以及img图片，并创建完整的引导页面。
 ## 2、依据HIGO app分析项目需要的页面
                     1. 注册页面
-		    	![github](/原APP的样式/注册页面.png)
+		    	![github](https://github.com/wwk123/ionic-HIGO_App/blob/master/%E5%8E%9FAPP%E7%9A%84%E6%A0%B7%E5%BC%8F/%E6%B3%A8%E5%86%8C%E9%A1%B5%E9%9D%A2.png)
                     2. 登录页面
                     3. 首页
                     4. 新品展示页面(新品)
